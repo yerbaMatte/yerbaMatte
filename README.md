@@ -17,3 +17,4 @@
 </p>
                     
 * ✉️  You can contact me at [milosz.lewandowski@icloud.com](mailto:milosz.lewandowski@icloud.com)
+* 🚀  I'm currently working on [AirQuality App](http://github.com/yerbaMatte/-air-quality-app-v2)
