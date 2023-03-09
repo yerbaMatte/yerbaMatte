@@ -1,8 +1,8 @@
 👋 Hi, I’m @yerbaMatte!
-<!-- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+
+
+* ✉️  You can contact me at [milosz.lewandowski@icloud.com](mailto:milosz.lewandowski@icloud.com)
+* 🚀  I'm currently working on [AirQuality App](http://github.com/yerbaMatte/-air-quality-app-v2)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerbamatte&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,5 +16,4 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
                     
-* ✉️  You can contact me at [milosz.lewandowski@icloud.com](mailto:milosz.lewandowski@icloud.com)
-* 🚀  I'm currently working on [AirQuality App](http://github.com/yerbaMatte/-air-quality-app-v2)
+
