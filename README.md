@@ -3,7 +3,8 @@ Welcome to my GitHub profile! This is where I showcase my coding skills and shar
 
 🚀  I'm currently working on [AirQuality App](http://github.com/yerbaMatte/-air-quality-app-v2)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerbamatte&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerbamatte&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats )
+https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg
 
 ### Tech I Use 
 <p align="left">
