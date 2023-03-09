@@ -1,9 +1,6 @@
 👋 Hi, I’m @yerbaMatte!
 
-
-* ✉️  You can contact me at [milosz.lewandowski@icloud.com](mailto:milosz.lewandowski@icloud.com)
-* 🚀  I'm currently working on [AirQuality App](http://github.com/yerbaMatte/-air-quality-app-v2)
-
+🚀  I'm currently working on [AirQuality App](http://github.com/yerbaMatte/-air-quality-app-v2)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerbamatte&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
