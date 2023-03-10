@@ -1,4 +1,5 @@
-Welcome to my GitHub profile! This is where I showcase my coding skills and share my passion for all things tech.
+Welcome to my GitHub profile! 
+This is where I showcase my coding skills and share my passion for all things tech.
 @yerbaMatte
 
 🚀  I'm currently working on [AirQuality App](http://github.com/yerbaMatte/-air-quality-app-v2)
