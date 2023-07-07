@@ -4,7 +4,7 @@
 
 🍿🎬  I'm currently working on [CinemaW🌏RLD](https://github.com/yerbaMatte/project-cinema)
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yerbamatte&theme=react&line_height=40&hide=css"/> </a>
+https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yerbamatte&theme=react&line_height=40&hide=css"
 
 ### Tech I Use 
 <p align="left">
