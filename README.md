@@ -4,7 +4,7 @@
 
 🍿🎬  I'm currently working on [CinemaW🌏RLD](https://github.com/yerbaMatte/project-cinema)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerbamatte&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerbamatte&hide_progress=true)
 
 ### Tech I Use 
 <p align="left">
