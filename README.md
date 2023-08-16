@@ -2,7 +2,7 @@
 <p>This is where I showcase my coding skills and share my passion for all things tech.</p>
 
 
-🍿🎬  I'm currently working on [CinemaW🌏RLD](https://github.com/yerbaMatte/project-cinema)
+🍿🎬  I'm currently working on [CinemaW🌏RLD](https://cinema-world-nextjs-fdkl3s49e-yerbamatte.vercel.app)
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yerbamatte&theme=react&layout=compact"/> </a>
 
