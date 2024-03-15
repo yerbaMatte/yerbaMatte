@@ -7,7 +7,7 @@
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yerbamatte&theme=react&layout=compact"/> </a>
 
 
-### Tech I Use 
+### Tech I Use ###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" style="background-color: #FFF"/>
   <img width="12" />
