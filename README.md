@@ -2,7 +2,7 @@
 <p>This is where I showcase my coding skills and share my passion for all things tech.</p>
 
 
-I'm currently working on [CodeBrewBlog](https://github.com/yerbaMatte/blog-nextjs) 💻
+I'm currently working on [CodeBrew](https://github.com/yerbaMatte/blog-nextjs) blog 💻
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yerbamatte&theme=react&layout=compact"/> </a>
 
